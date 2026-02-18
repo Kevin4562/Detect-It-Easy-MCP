@@ -1,10 +1,8 @@
 ﻿# Detect-It-Easy MCP Server
 
-MCP server for binary analysis using **direct** [`die-python`](https://github.com/elastic/die-python) bindings only.
-
-- No `diec`/`die`/`diel` subprocess usage
+MCP server for binary analysis using **direct** [`die-python`](https://github.com/elastic/die-python) bindings.
 - Typed structured outputs for LLM tooling
-- Evidence extraction without hardcoded packed/protected verdicts
+- Evidence extraction
 
 ## Quick Install (Copy/Paste)
 
